@@ -1,38 +1,47 @@
 # 👋 Hi, I'm Joel Gutiérrez
 
-I'm an **Informatics Engineer** from Santiago, Chile, with experience in **Full Stack Development, Data, Quality Assurance and Technical Leadership**.
+I'm an **Informatics Engineer and Full Stack Developer** from Santiago, Chile, focused on building scalable, maintainable and reliable software solutions.
 
-Currently working as a **Quality Assurance Analyst at Agilistik**, supporting Falabella's self-checkout ecosystem for Chile and Peru.
+Currently, I'm **Technical Lead at Sensafeet**, a HealthTech IoT platform where I coordinate the development team and contribute to the architecture, backend, web and mobile integration of the product.
 
-I'm also **Technical Lead at Sensafeet**, a HealthTech IoT project, where I coordinate the development team and work on the architecture and integration of its web, mobile and backend platforms.
+I also work as a **Quality Assurance Analyst at Agilistik**, supporting Falabella's StoreCheckOut ecosystem. This experience has strengthened my skills in debugging, system integration, transaction traceability and software quality.
+
+My professional goal is to continue growing as a **Software Engineer**, strengthening my skills in backend, frontend, architecture and software engineering practices.
 
 ## 🚀 About me
 
-* 💻 Full Stack development with **Angular, NestJS, Node.js and TypeScript**
-* 📱 Mobile development with **React Native**
-* 🗄️ Experience with **MySQL, Firebase and BigQuery**
-* ☁️ Experience with **Google Cloud Platform and Cloud Data Fusion**
-* 📊 Data analysis, Data Quality and dashboards with **Power BI**
-* 🧪 Currently gaining professional experience in **Software Quality Assurance**
-* 🐍 Learning **Python and IT Automation** through the Google IT Automation with Python Professional Certificate
-* 👥 Experience coordinating developers, technical tasks and communication with clients
+- 💻 Full Stack development with **Angular, NestJS, Node.js and TypeScript**
+- 🏗️ Experience in **software architecture, API design and system integration**
+- 📱 Mobile development with **React Native**
+- 🗄️ Experience with **MySQL, Firebase and BigQuery**
+- ☁️ Experience with **Google Cloud Platform**
+- 🧪 Technical experience in **QA, debugging, end-to-end testing and transaction traceability**
+- 📊 Background in **Data Governance, Data Quality and Power BI**
+- 🐍 Currently learning **Python and IT Automation** through the Google IT Automation with Python Professional Certificate
+- 👥 Experience in **technical leadership, developer coordination and client communication**
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-**Frontend:** Angular · React · TypeScript · HTML · CSS
-**Backend:** NestJS · Node.js · REST APIs
-**Mobile:** React Native
-**Databases:** MySQL · Firebase · BigQuery
-**Data & BI:** Power BI · Excel · Cloud Data Fusion
-**Cloud & Tools:** GCP · Git · GitHub · Jira · Docker
+**Frontend**  
+Angular · TypeScript · HTML · CSS
+
+**Backend**  
+NestJS · Node.js · REST APIs
+
+**Mobile**  
+React Native
+
+**Databases & Data**  
+MySQL · Firebase · BigQuery
+
+**Cloud & Tools**  
+Google Cloud Platform · Git · GitHub · Jira · Confluence · Docker
+
+**Data & BI**  
+Power BI · Excel · Cloud Data Fusion
 
 ## 📫 Contact
 
-* LinkedIn: [linkedin.com/in/jgutiale](https://www.linkedin.com/in/jgutiale/)
-* Email: **[jgutiale@gmail.com](mailto:jgutiale@gmail.com)**
-* Location: Santiago, Chile
-
-<!---
-JoelGutierrezA/JoelGutierrezA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- LinkedIn: [linkedin.com/in/jgutiale](https://www.linkedin.com/in/jgutiale/)
+- Email: [jgutiale@gmail.com](mailto:jgutiale@gmail.com)
+- Location: Santiago, Chile
